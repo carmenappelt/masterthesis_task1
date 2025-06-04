@@ -1,5 +1,5 @@
 # NCEI API endpoint and token
-API_TOKEN = ""
+API_TOKEN = "VpTIXLAOakCwxykpCjUkBGRHkULwYwya"
 BASE_URL = "https://www.ncei.noaa.gov/access/services/data/v1"
 STATIONS_API_URL = "https://www.ncdc.noaa.gov/cdo-web/api/v2/stations"
 
